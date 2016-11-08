@@ -1,0 +1,5 @@
+host_base=127.1.0.
+node_port=1215
+server_port=8080
+; min 3
+neighbours_count=3

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Peekit/Desktop/PROGRAMMING/java/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Peekit/Desktop/PROGRAMMING/java/david-webb-1.3.0.jar" sourcepath="C:/Users/Peekit/Desktop/PROGRAMMING/java/david-webb-1.3.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Peekit/Desktop/PROGRAMMING/java/david-webb-1.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Peekit/Desktop/PROGRAMMING/java/json-20080701.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
